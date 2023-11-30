@@ -1,0 +1,2 @@
+# smarter_05_ann_1_ann_203207_0000_0000
+育苗場環控與植株育成率推論模型 Greenhouse environmental control and seedling growth rate inference model
